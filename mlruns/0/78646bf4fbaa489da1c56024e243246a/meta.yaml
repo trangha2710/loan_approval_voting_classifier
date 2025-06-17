@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/78646bf4fbaa489da1c56024e243246a/artifacts
+end_time: 1750161948979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78646bf4fbaa489da1c56024e243246a
+run_name: blushing-pig-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750161939387
+status: 3
+tags: []
+user_id: trang

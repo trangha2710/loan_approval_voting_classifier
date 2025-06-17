@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7a06f4ebbe4b47678b8835916f5203df/artifacts
+deleted_time: 1750162513923
+end_time: 1750159954603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7a06f4ebbe4b47678b8835916f5203df
+run_name: delicate-rook-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750159947955
+status: 4
+tags: []
+user_id: trang

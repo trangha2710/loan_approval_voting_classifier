@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c9c24d560264b84ac9377ec072a78d5/artifacts
+deleted_time: 1750162513907
+end_time: 1750160815722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0c9c24d560264b84ac9377ec072a78d5
+run_name: adorable-seal-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160809067
+status: 4
+tags: []
+user_id: trang

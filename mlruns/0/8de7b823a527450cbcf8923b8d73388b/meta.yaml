@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8de7b823a527450cbcf8923b8d73388b/artifacts
+deleted_time: 1750162513914
+end_time: 1750160722511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8de7b823a527450cbcf8923b8d73388b
+run_name: whimsical-pug-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160715797
+status: 4
+tags: []
+user_id: trang

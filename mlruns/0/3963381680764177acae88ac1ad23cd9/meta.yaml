@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3963381680764177acae88ac1ad23cd9/artifacts
+deleted_time: 1750162513903
+end_time: 1750161471988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3963381680764177acae88ac1ad23cd9
+run_name: bittersweet-bird-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750161465089
+status: 4
+tags: []
+user_id: trang

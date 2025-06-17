@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3c83fcfecaec4856b851df80c78f37b0/artifacts
+deleted_time: 1750162513920
+end_time: 1750160527442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3c83fcfecaec4856b851df80c78f37b0
+run_name: placid-goose-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160520754
+status: 4
+tags: []
+user_id: trang

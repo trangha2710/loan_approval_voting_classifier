@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5f93b4ba6ec408c90c55c9031bdd7bd/artifacts
+deleted_time: 1750162513919
+end_time: 1750159817162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b5f93b4ba6ec408c90c55c9031bdd7bd
+run_name: big-shrimp-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750159808517
+status: 4
+tags: []
+user_id: trang

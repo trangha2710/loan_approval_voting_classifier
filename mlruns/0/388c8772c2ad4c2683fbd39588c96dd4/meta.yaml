@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/388c8772c2ad4c2683fbd39588c96dd4/artifacts
+deleted_time: 1750162513917
+end_time: 1750160168999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 388c8772c2ad4c2683fbd39588c96dd4
+run_name: inquisitive-colt-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160162421
+status: 4
+tags: []
+user_id: trang

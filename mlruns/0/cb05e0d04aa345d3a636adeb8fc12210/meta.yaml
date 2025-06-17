@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb05e0d04aa345d3a636adeb8fc12210/artifacts
+end_time: 1750161308550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb05e0d04aa345d3a636adeb8fc12210
+run_name: incongruous-slug-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750161299258
+status: 3
+tags: []
+user_id: trang

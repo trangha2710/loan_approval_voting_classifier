@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f81bfb3052f342cdacd371ec36821b73/artifacts
+deleted_time: 1750162513906
+end_time: 1750161098672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f81bfb3052f342cdacd371ec36821b73
+run_name: victorious-ape-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750161092041
+status: 4
+tags: []
+user_id: trang

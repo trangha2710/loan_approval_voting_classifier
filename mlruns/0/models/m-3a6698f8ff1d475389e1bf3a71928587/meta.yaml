@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-3a6698f8ff1d475389e1bf3a71928587/artifacts
+creation_timestamp: 1750161303172
+experiment_id: '0'
+last_updated_timestamp: 1750161308525
+model_id: m-3a6698f8ff1d475389e1bf3a71928587
+model_type: ''
+name: loan_voting_model
+source_run_id: cb05e0d04aa345d3a636adeb8fc12210
+status: 2
+status_message: null
