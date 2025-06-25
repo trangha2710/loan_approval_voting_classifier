@@ -29,6 +29,4 @@ run_training.bat
   - Recall, Precision, F1 Score
 ## Requirements
 bash
-Sao chép
-Chỉnh sửa
 pip install -r requirements.txt
