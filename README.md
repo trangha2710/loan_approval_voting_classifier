@@ -13,7 +13,7 @@ loan_approval_voting_classifier/
 └── README.md
 
 ##  How to Run
-### 1. Start MLflow UI
+### Start MLflow UI
 ```bash
 start_mlflow_server.bat
 run_training.bat
